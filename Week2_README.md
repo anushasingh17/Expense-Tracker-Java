@@ -8,6 +8,7 @@ During Week 2, the objective was to develop the core functional version of the C
 The implementation focused on Object-Oriented Programming (OOP) principles, structured class design, dynamic in-memory collections, Core Java file I/O for persistent CSV storage, and an interactive console user interface.
 
 2.Key Modules & Features Implemented
+
 A. Domain Model Layer (com.tracker.model)
 Expense.java:
 Implements Encapsulation with private fields: id, amount, category, date (LocalDate), and description.
