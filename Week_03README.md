@@ -1,3 +1,7 @@
+Internship Progress Report: Week 3
+Project Title: Console-Based Expense Tracker Application
+Domain: Core Java Development
+ 
  I. Overview:
 During Week 3, the objective was to implement advanced data processing, category aggregations, monthly expenditure tracking, expense modification, and a monthly budget management subsystem for the Console-Based Expense Tracker application using pure Core Java.
 
